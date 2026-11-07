@@ -7,7 +7,7 @@ library SpraayAddresses {
     /// @dev BNB Chain mainnet, chainId 56
     address internal constant BSC_MAINNET = 0x3093a2951FB77b3beDfB8BA20De645F7413432C1;
     /// @dev Base mainnet, chainId 8453
-    address internal constant BASE_MAINNET = 0x1646452F98E36A3c9Cfc3eDD8868221E207B5eEC;
+    address internal constant BASE_MAINNET = 0x4B1d57EBFaBDF3F21F30f210a1d95f649E9edD4c;
 
     error UnsupportedChain(uint256 chainId);
 

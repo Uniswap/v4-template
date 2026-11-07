@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
  * @dev Test copy of Spraay's SprayContract, verified source (Sourcify exact match) at
- *   BNB 0x3093a2951FB77b3beDfB8BA20De645F7413432C1 and Base 0x1646452F98E36A3c9Cfc3eDD8868221E207B5eEC.
+ *   BNB 0x3093a2951FB77b3beDfB8BA20De645F7413432C1 and Base 0x4B1d57EBFaBDF3F21F30f210a1d95f649E9edD4c.
  *   Only the import paths and contract name differ.
  * @title SprayContract
  * @notice Enables batch token transfers to multiple recipients in a single transaction

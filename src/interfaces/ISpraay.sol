@@ -4,7 +4,7 @@ pragma solidity ^0.8.19;
 /// @notice Minimal interface for Spraay's batch distribution contract (SprayContract)
 /// @dev Verified source (exact match on Sourcify):
 ///   - BNB Chain: 0x3093a2951FB77b3beDfB8BA20De645F7413432C1
-///   - Base:      0x1646452F98E36A3c9Cfc3eDD8868221E207B5eEC
+///   - Base:      0x4B1d57EBFaBDF3F21F30f210a1d95f649E9edD4c
 /// The protocol fee (`feeBps`, 30 bps at time of writing) is charged on top of the distributed amount:
 /// the caller must provide `totalAmount + totalAmount * feeBps / 10_000`.
 interface ISpraay {
